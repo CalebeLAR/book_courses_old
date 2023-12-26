@@ -401,13 +401,11 @@
 
 ### semana51  
 
-cumulativa	`|||`	empregador	`|||`		`|||`		`|||`	
-Exemplo: corrotina para calcular uma `média  
-`dia251:`  `dia252:`  Decoradores para preparação de corrotinas	`|||`	Separando os valores das doações em buckets	`|||`		`|||`		  
-`dia253:`  Término de corrotinas e tratamento de exceo	`|||`	Estatísticas sobre as doacões conforme oestado	`|||`		`|||`		  
-`dia254:`  Devolvendo um valor a partir de uma corrotina	`|||`	14.6 Concluso	`|||`		`|||`		  
-
-`dia255:`  Usando yield from	`|||`	Apêndice A • NumPy avanado	`|||`		`|||`		  
+`dia251:`  Exemplo: corrotina para calcular uma média cumulativa	`|||`	empregador	`|||`		`|||`		`|||`  
+`dia252:`  Decoradores para preparação de corrotinas	`|||`	Separando os valores das doações em buckets	`|||`		`|||`    
+`dia253:`  Término de corrotinas e tratamento de exceo	`|||`	Estatísticas sobre as doacões conforme oestado	`|||`		`|||`  
+`dia254:`  Devolvendo um valor a partir de uma corrotina	`|||`	14.6 Concluso	`|||`		`|||`		    
+`dia255:`  Usando yield from	`|||`	Apêndice A • NumPy avanado	`|||`		`|||`		    
 ### semana52  
 
 `dia256:`  O significado de yield from	`|||`	A.1 Organização interna do objeto ndarray	`|||`		`|||`		  
