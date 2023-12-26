@@ -1,5 +1,7 @@
-#### Luciano Ramalho `|||` Wes McKinney `|||` Frank Zammett `|||` Edécio Fernando Iepsen  
-			
+# Luciano Ramalho  
+
+<img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575224625.jpg"/>
+
 ### semana01  
 
 `dia01:`  Prefácio	`|||`	Prefácio	`|||`	Table of Contents	`|||`	Agradecimentos	  
