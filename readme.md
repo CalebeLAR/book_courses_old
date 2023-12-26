@@ -1,5 +1,5 @@
-# **LucianoRamalho** | **WesMcKinney** | **FrankZammett** | **EdécioFernando** | **Iepsen**	
-					
+# **LucianoRamalho** | **WesMcKinney** | **FrankZammett** | **EdécioFernandoIepsen**	
+git branch LucianoRamalho && git branch WesMcKinney && git branch FrankZammett && git branch EdécioFernandoIepsen
 ### semana01  
 `dia01:` Prefcio Prefcio Table of Contents agradecimentos  
 `dia02:` Capítulo 1 ■ Modelo de dados do Python	Capítulo 1 • Informações preliminares	Chapter 1: Server-Side Action: Node andNPM	capítulo 1 Introdução  
