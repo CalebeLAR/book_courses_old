@@ -1,8 +1,10 @@
-#### Luciano Ramalho `|||` Wes McKinney `|||` Frank Zammett `|||` Edécio Fernando Iepsen  
+# Frank Zammett
+
+<img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-8811-5?as=webp" width="300">
 			
 ### semana01  
 
-`dia01:`  Prefcio	`|||`	Prefcio	`|||`	Table of Contents	`|||`	Agradecimentos	  
+`dia01:` **Table of Contents**  
 `dia02:`  Capítulo 1 ■ Modelo de dados do Python	`|||`	Capítulo 1 • Informações preliminares	`|||`	Chapter 1: Server-Side Action: Node andNPM	`|||`	capítulo 1 Introdução	  
 `dia03:`  Um baralho pythônico	`|||`	1.1 De que se trata estelivro?	`|||`	Of JavaScript Runtimes and Building (Mostly) Servers	`|||`	1.1 Lógica de programação	  
 `dia04:`  Como os métodos especiais são usados	`|||`	Quais tipos dedados?	`|||`	First Baby Steps with Node: Installation	`|||`	1.1.1 Compreender o que é pedido	  
