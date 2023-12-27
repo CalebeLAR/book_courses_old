@@ -17,5 +17,5 @@ class Day01 {
     }
 }
 
-day01 = new Day01();
+let day01 = new Day01();
 day01.show();
