@@ -1,9 +1,11 @@
-#### Luciano Ramalho `|||` Wes McKinney `|||` Frank Zammett `|||` Edécio Fernando Iepsen  
+# Edécio Fernando Iepsen  
+
+<img src="https://s3.novatec.com.br/capas/9786586057904.jpg" alt="Imagem do livro Lógica de Programação e Algoritmos com JavaScript – 2ª Edição" width="300"/>
 			
 ### semana01  
 
-`dia01:`  Prefácio	`|||`	Prefácio	`|||`	Table of Contents	`|||`	Agradecimentos	  
-`dia02:`  Capítulo 1 ■ Modelo de dados do Python	`|||`	Capítulo 1 • Informações preliminares	`|||`	Chapter 1: Server-Side Action: Node andNPM	`|||`	capítulo 1 Introdução	  
+`dia01:`  **Agradecimentos**  
+`dia02:`  **Capítulo 1 Introdução**  
 `dia03:`  Um baralho pythônico	`|||`	1.1 De que se trata estelivro?	`|||`	Of JavaScript Runtimes and Building (Mostly) Servers	`|||`	1.1 Lógica de programação	  
 `dia04:`  Como os métodos especiais são usados	`|||`	Quais tipos dedados?	`|||`	First Baby Steps with Node: Installation	`|||`	1.1.1 Compreender o que é pedido	  
 `dia05:`  Emulando tipos numéricos	`|||`	1. 2 Por que Python para análise dedados?	`|||`	More Useful: Executing JavaScript Source Files	`|||`	1.1.2 Realizar deduções na construção do programa	  
